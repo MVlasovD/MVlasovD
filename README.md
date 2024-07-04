@@ -5,3 +5,5 @@
 📫 How to reach me: unclemi@gmail.com
 
 ![MVlasovD's GitHub stats](https://github-readme-stats.vercel.app/api?username=MVlasovD&show_icons=true&bg_color=00000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MVlasovD)](https://github.com/MVlasovD/github-readme-stats)
